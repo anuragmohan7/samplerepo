@@ -27,6 +27,9 @@ Command for adding remote
 
 verify remote add or not
     >git remote -v
+
+Command for push
+    >git push remotename
     
 
 
