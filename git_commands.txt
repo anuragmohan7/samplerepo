@@ -1,0 +1,32 @@
+Command for checking git version
+    >git --version
+
+Command for listing users
+    >git1.ipynb
+
+Command for adding username
+    >git config --global user.name "Username"
+
+Command for adding user email
+    >git config --global user.email"User mail"
+
+Command for initialising git
+    >git init
+
+Command for listing all untracked file
+    >git status
+
+Command for adding untracked files to staging area
+    >git add -A
+
+Command for adding staged files to local repository
+    >git commit -m "Commit message"
+
+Command for adding remote
+    >git remote add name path
+
+verify remote add or not
+    >git remote -v
+    
+
+
