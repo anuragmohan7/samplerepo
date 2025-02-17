@@ -30,6 +30,9 @@ verify remote add or not
 
 Command for push
     >git push remotename master
+
+Command for listing branches
+    >git branch
     
 
 
